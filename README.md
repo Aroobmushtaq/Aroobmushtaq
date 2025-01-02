@@ -3,7 +3,6 @@
 - 👀 I’m interested in Full-Stack Development, AI, and Cloud Computing.
 - 🌱 I’m currently learning Python, Generative AI.
 - 💞️ I’m looking to collaborate on open-source projects and hackathons.
-- 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love solving coding challenges and experimenting with new technologies!
 
 # 💻 Tech Stack
