@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Aroob Mushtaq
 
 - 👀 I’m interested in Full-Stack Development.
-- 🌱 I’m currently learning Python and Generative AI.
+- 🌱 I’m currently learning  Cloud-Native Applied AI Agentic Development.
 - 💞️ I’m looking to collaborate on open-source projects and hackathons.
 - ⚡ Fun fact: I love solving coding challenges and experimenting with new technologies!
 
