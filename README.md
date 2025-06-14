@@ -39,9 +39,8 @@
 - Python
 - Generative AI
 
-# 📊 GitHub Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=github-dark-blue)
 
-![Aroob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aroobmushtaq&show_icons=true&theme=tokyonight)
+![Aroob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aroobmushtaq&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroobmushtaq&layout=compact&theme=tokyonight)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroobmushtaq&layout=compact&theme=radical)
