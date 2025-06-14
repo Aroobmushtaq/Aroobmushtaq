@@ -38,3 +38,10 @@
 # 🌱 Skills I’m Learning
 - Python
 - Generative AI
+
+# 📊 GitHub Stats
+
+![Aroob's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aroobmushtaq&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroobmushtaq&layout=compact&theme=tokyonight)
+
