@@ -60,3 +60,6 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aroobmushtaq&theme=github-light&area=true&hide_border=true)
 
+
+![snake gif](https://github.com/Aroobmushtaq/Aroobmushtaq/blob/output/github-contribution-grid-snake.svg)
+
