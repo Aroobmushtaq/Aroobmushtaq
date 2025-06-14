@@ -1,6 +1,4 @@
-<img src="https://media.giphy.com/media/26xBukh1EuFh7sQ3i/giphy.gif" width="100%" alt="Animated Banner"/>
-
-# 👋 Hi, I’m Aroob Mushtaq
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A1A1A&center=true&width=435&lines=Hi+I'm+Aroob+Mushtaq;Full-Stack+Developer;MERN+Stack+Specialist;Always+Learning...)](https://git.io/typing-svg)
 
 - 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m currently learning  Cloud-Native Applied AI Agentic Development.
