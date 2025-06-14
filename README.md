@@ -35,12 +35,20 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![GenAi](https://img.shields.io/badge/GenAi-FF6600?style=flat&logo=ai&logoColor=white)
 
+
+
+
 # 🌱 Skills I’m Learning
 - Python
 - Generative AI
+
 
 # 📈 GitHub Activity
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=default)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroobmushtaq&layout=compact&theme=default)
+
+# 📊 Contribution Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aroobmushtaq&theme=github-light)
