@@ -1,5 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A1A1A&center=true&width=435&lines=Hi+I'm+Aroob+Mushtaq;Full-Stack+Developer;MERN+Stack+Specialist;Always+Learning...)](https://git.io/typing-svg)
+<h1 align="center">
+  Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/> I'm Aroob Mushtaq
+</h1>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A1A1A&center=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Specialist;Always+Learning..." alt="Typing SVG" />
+  </a>
+</p>
+)
 - 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m currently learning  Cloud-Native Applied AI Agentic Development.
 - 💞️ I’m looking to collaborate on open-source projects and hackathons.
