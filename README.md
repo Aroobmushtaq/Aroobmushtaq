@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/26xBukh1EuFh7sQ3i/giphy.gif" width="100%" alt="Animated Banner"/>
+
 # 👋 Hi, I’m Aroob Mushtaq
 
 - 👀 I’m interested in Full-Stack Development.
