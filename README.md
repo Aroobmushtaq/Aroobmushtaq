@@ -58,4 +58,5 @@
 
 # 📊 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aroobmushtaq&theme=github-light)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aroobmushtaq&theme=react-dark&area=true&hide_border=true)
+
