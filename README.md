@@ -9,8 +9,8 @@
 </p>
 - 👀 I’m interested in Full-Stack Development.
 - 🌱 I’m currently learning  Cloud-Native Applied AI Agentic Development.
-- 💞️ I’m looking to collaborate on open-source projects and hackathons.
-- ⚡ Fun fact: I love solving coding challenges and experimenting with new technologies!
+- ✨ I’m looking to collaborate on open-source projects and hackathons.
+- ⚡ I love solving coding challenges and experimenting with new technologies!
 
 # 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
