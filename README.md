@@ -49,7 +49,7 @@
 
 
 # 🌱 Skills I’m Learning
-- Python
+- React Native
 - Generative AI
 
 
