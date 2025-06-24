@@ -55,7 +55,11 @@
 
 # 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=default)
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=default" 
+  alt="GitHub Streak"
+/>
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroobmushtaq&layout=compact&theme=default)
 
