@@ -13,6 +13,8 @@
   ⚡ I love solving coding challenges and experimenting with new technologies!
 </p>
 
+---
+
 <h2>💻 Tech Stack</h2>
 
 <p>
@@ -49,6 +51,7 @@
   <img src="https://img.shields.io/badge/GenAi-FF6600?style=flat&logo=ai&logoColor=white" height="30"/>
 </p>
 
+---
 
 # 🌱 Skills I’m Learning
 - React Native
