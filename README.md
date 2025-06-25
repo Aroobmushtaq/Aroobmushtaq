@@ -51,7 +51,6 @@
   <img src="https://img.shields.io/badge/GenAi-FF6600?style=flat&logo=ai&logoColor=white" height="30"/>
 </p>
 
----
 
 # 🌱 Skills I’m Learning
 - React Native
