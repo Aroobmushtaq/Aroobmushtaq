@@ -6,11 +6,12 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=1A1A1A&center=true&width=435&lines=Full-Stack+Developer;MERN+Stack+Developer;Always+Learning...;Love+Building+Projects" alt="Typing SVG" />
   </a>
+<p>
+  👀 I’m interested in Full-Stack Development.<br>
+  🌱 I’m currently learning Cloud-Native Applied AI Agentic Development.<br>
+  ✨ I’m looking to collaborate on open-source projects and hackathons.<br>
+  ⚡ I love solving coding challenges and experimenting with new technologies!
 </p>
- 👀 I’m interested in Full-Stack Development.
- 🌱 I’m currently learning  Cloud-Native Applied AI Agentic Development.
- ✨ I’m looking to collaborate on open-source projects and hackathons.
- ⚡ I love solving coding challenges and experimenting with new technologies!
 
 <h2>💻 Tech Stack</h2>
 
