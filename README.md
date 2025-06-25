@@ -38,6 +38,7 @@
   <img src="https://img.shields.io/badge/Bcrypt-00A859?style=flat&logo=bcrypt&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Dotenv-23232F?style=flat&logo=dotenv&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=flat&logo=npm&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=flat&logo=redux&logoColor=white" height="30"/>
