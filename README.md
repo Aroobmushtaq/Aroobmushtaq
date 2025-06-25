@@ -55,7 +55,8 @@
 
 # 📈 GitHub Activity
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=default)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=default)
+
 
 
 
