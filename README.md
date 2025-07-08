@@ -56,7 +56,7 @@
 
 
 # 🌱 Skills I’m Learning
-- React Native
+- Cloud-Native Applied AI Agentic Development
 - Generative AI
 
 
