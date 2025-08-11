@@ -60,11 +60,11 @@
 - Cloud-Native Applied AI Agentic Development
 - Generative AI
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/aroob-mushtaq-32191b2b8/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="30"/>
-  </a>
-</p>
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroob-mushtaq-32191b2b8/)
+
 
 
 # 📈 GitHub Activity
