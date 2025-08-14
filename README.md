@@ -22,7 +22,6 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
-  <img src="https://img.shields.io/badge/Object--Oriented_Programming-000000?style=flat&logo=java&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/React-20232F?style=flat&logo=react&logoColor=61DAFB" height="30"/>
