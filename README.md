@@ -53,6 +53,8 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="30"/>
   <img src="https://img.shields.io/badge/GenAi-FF6600?style=flat&logo=ai&logoColor=white" height="30"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white" height="30"/>
+
 </p>
 
 
