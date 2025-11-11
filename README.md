@@ -8,7 +8,7 @@
   </a>
 <p>
   👀 I’m interested in Full-Stack Development.<br>
-  🌱 I’m currently learning Cloud-Native Applied AI Agentic Development.<br>
+  🌱 I’m currently learning  AI Agentic Development.<br>
   ✨ I’m looking to collaborate on open-source projects and hackathons.<br>
   ⚡ I love solving coding challenges and experimenting with new technologies!
 </p>
@@ -60,7 +60,7 @@
 
 
 # 🌱 Skills I’m Learning
-- Cloud-Native Applied AI Agentic Development
+- AI Agentic Development
 - Generative AI
 
 
