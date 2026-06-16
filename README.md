@@ -57,6 +57,17 @@
 
 </p>
 
+# 🚀 Featured Projects
+
+## 💬 Chat App
+👉 https://github.com/your-username/repo/tree/main/chat-app
+
+## 🔐 JWT Auth API
+👉 https://github.com/your-username/repo/tree/main/auth-api
+
+## 🛒 E-commerce Backend
+👉 https://github.com/your-username/repo/tree/main/ecommerce
+
 
 # 🌱 Skills I’m Learning
 - AI Agentic Development
