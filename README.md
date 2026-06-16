@@ -57,30 +57,36 @@
 
 </p>
 
-# 🚀 Featured Projects
+#  Featured Projects
 
-## 💬 Chat App
-👉 https://github.com/your-username/repo/tree/main/chat-app
+##  Restaurant Website
+👉 https://github.com/Aroobmushtaq/codevTraining/tree/main/restaurantApp
 
-## 🔐 JWT Auth API
-👉 https://github.com/your-username/repo/tree/main/auth-api
+##  Online Learning Platform
+👉https://github.com/Aroobmushtaq/learnhub-saas-platform
 
-## 🛒 E-commerce Backend
-👉 https://github.com/your-username/repo/tree/main/ecommerce
+##  E-commerce Website
+👉 https://github.com/Aroobmushtaq/ecommerce-website-
+
+##  Doctor-Patient Web Application
+👉 https://github.com/Aroobmushtaq/MidTask
+
+##  Collaborative Web App
+👉 https://github.com/Aroobmushtaq/final-hackathon
 
 
-# 🌱 Skills I’m Learning
+#  Skills I’m Learning
 - AI Agentic Development
 - Generative AI
 
 
-# 📫 Connect with Me
+#  Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aroob-mushtaq-32191b2b8/)
 
 
 
-# 📈 GitHub Activity
+#  GitHub Activity
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Aroobmushtaq&theme=default)
 
@@ -89,7 +95,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aroobmushtaq&layout=compact&theme=default)
 
-# 📊 Contribution Graph
+#  Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aroobmushtaq&theme=github-light&area=true&hide_border=true)
 
